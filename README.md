@@ -1,6 +1,6 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm [Muhammad Awais](http://muhammadawaisshaikh.com)!
 
-I am a Full Stack Devleloper. I´m based in Karachi, Pakistan.
+I am a Full Stack Devleloper, based in Karachi, Pakistan.
 
 Since 2015 I've been living and breathing web development and creating web and mobile applications with cool tech stack. other than that i am an opensource contributor, a mentor and a speaker as well. ✨😍
 
@@ -27,6 +27,11 @@ BTW, if you´re looking for a ReactJS complete boilerplate with power of Redux a
 - [Show and hide the password in angular](https://dev.to/muhammadawaisshaikh/show-and-hide-the-password-in-angular-2ph9)
 - [How to share and change state between components using props](https://dev.to/muhammadawaisshaikh/how-to-share-and-change-state-between-components-using-props-1gif)
 <!-- BLOG-POST-LIST:END -->
+
+### My most recent talks on [youtube](https://www.youtube.com/channel/UCqIJXjQkCLx6IMGLGH5W6aA) 🙌🎬
+<!-- youtube-LIST:START -->
+- [Architecture of Angular Components](https://youtu.be/DrKZBeSpEco)
+<!-- youtube-LIST:END -->
 
 ### 📫 How to reach me:
 
