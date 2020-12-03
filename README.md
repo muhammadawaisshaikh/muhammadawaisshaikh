@@ -5,7 +5,7 @@ I am a Full Stack Devleloper, based in Karachi, Pakistan.
 Since 2015 I've been living and breathing web development and creating web and mobile applications with cool tech stack. other than that i am an opensource contributor, a mentor and a speaker as well. ✨😍
 
 ### Pakistan's first AWS DevAx::Mentor
-<img src="https://i.ibb.co/NC5hZvy/awais-aws-dexax-pakistan.jpg" alt="Pakistan's first AWS DevAx::Mentor" style="border-radius: 15px; width: 200px; height: 100px; object-fit: cover;" /><br/>
+<img src="https://i.ibb.co/NC5hZvy/awais-aws-dexax-pakistan.jpg" alt="Pakistan's first AWS DevAx::Mentor" width="150" /><br/>
 [AWS DevAx Pakistan - Github](https://github.com/AWS-DevAX-Pakistan)
 
 🔭 I’m currently working on
