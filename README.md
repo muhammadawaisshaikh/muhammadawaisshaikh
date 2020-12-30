@@ -35,11 +35,13 @@ BTW, if you´re looking for a ReactJS complete boilerplate with power of Redux a
 ### My most recent talks on [youtube](https://www.youtube.com/channel/UCqIJXjQkCLx6IMGLGH5W6aA) 🙌🎬
 <!-- youtube-LIST:START -->
 - [Architecture of Angular Components](https://youtu.be/DrKZBeSpEco)
+- [How to Develop Powerful Web and Mobile Apps using Angular](https://youtu.be/4ORCJMkqbmU)
 <!-- youtube-LIST:END -->
 
 ### 📫 How to reach me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/muhammadawaisshaikh/)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_diogorodrigues)](https://twitter.com/awaisshaikh_)
 
-
 **[muhammadawaisshaikh.com](http://muhammadawaisshaikh.com)**
+
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="bamboodev" data-color="#FFDD00" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
