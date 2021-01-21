@@ -30,6 +30,7 @@ BTW, if you´re looking for a ReactJS complete boilerplate with power of Redux a
 - [Creating a Dark & Light Toggle Mode on your Angular App](https://dev.to/muhammadawaisshaikh/creating-a-dark-light-toggle-mode-on-your-angular-app-3k83)
 - [Show and hide the password in angular](https://dev.to/muhammadawaisshaikh/show-and-hide-the-password-in-angular-2ph9)
 - [How to share and change state between components using props](https://dev.to/muhammadawaisshaikh/how-to-share-and-change-state-between-components-using-props-1gif)
+- [How to avoid long relative paths import in your angular app 🚂](https://dev.to/muhammadawaisshaikh/how-to-avoid-long-relative-paths-import-in-your-angular-app-12j7)
 <!-- BLOG-POST-LIST:END -->
 
 ### My most recent talks on [youtube](https://www.youtube.com/channel/UCqIJXjQkCLx6IMGLGH5W6aA) 🙌🎬
