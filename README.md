@@ -8,6 +8,9 @@ Since 2015 I've been living and breathing web development and creating web and m
 <img src="https://i.ibb.co/NC5hZvy/awais-aws-dexax-pakistan.jpg" alt="Pakistan's first AWS DevAx::Mentor" width="150" /><br/>
 [AWS DevAx Pakistan - Github](https://github.com/AWS-DevAX-Pakistan)
 
+### 🌠 Pakistan's First Auth0 Ambassador | [Auth0 Ambassador](https://auth0.com/)
+<img src="https://cdn.auth0.com/blog/ambassador-program/astronaut-hero.png" alt="Pakistan's First Auth0 Ambassador" width="150" />
+
 ### 🔭 I’m currently working on
 
 ReactJS | Angular | JavaScript | Ionic | Firebase | Ruby on Rails | NodeJS
