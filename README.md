@@ -38,6 +38,7 @@ BTW, if you´re looking for a ReactJS complete boilerplate with power of Redux a
 
 ### My most recent talks on [youtube](https://www.youtube.com/channel/UCqIJXjQkCLx6IMGLGH5W6aA) 🙌🎬
 <!-- youtube-LIST:START -->
+- [Building Extensible and Reusable Components](https://youtu.be/mNQFHNsExv0)
 - [Architecture of Angular Components](https://youtu.be/DrKZBeSpEco)
 - [How to Develop Powerful Web and Mobile Apps using Angular](https://youtu.be/4ORCJMkqbmU)
 <!-- youtube-LIST:END -->
