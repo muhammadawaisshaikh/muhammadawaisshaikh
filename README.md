@@ -13,7 +13,7 @@ Since 2015 I've been living and breathing web development and creating web and m
 
 ### 🔭 I’m currently working on
 
-ReactJS | Angular | JavaScript | Ionic | Firebase | Ruby on Rails | NodeJS
+ReactJS | Angular | JavaScript | Ruby on Rails | NodeJS
 
 [Download my CV.](http://muhammadawaisshaikh.com/resume)
 
@@ -38,6 +38,7 @@ BTW, if you´re looking for a ReactJS complete boilerplate with power of Redux a
 
 ### My most recent talks on [youtube](https://www.youtube.com/channel/UCqIJXjQkCLx6IMGLGH5W6aA) 🙌🎬
 <!-- youtube-LIST:START -->
+- [Data Binding in Angular](https://youtu.be/qsU6w6rm7G8)
 - [Building Extensible and Reusable Components](https://youtu.be/mNQFHNsExv0)
 - [Architecture of Angular Components](https://youtu.be/DrKZBeSpEco)
 - [How to Develop Powerful Web and Mobile Apps using Angular](https://youtu.be/4ORCJMkqbmU)
