@@ -38,6 +38,7 @@ BTW, if you´re looking for a ReactJS complete boilerplate with power of Redux a
 
 ### My most recent talks on [youtube](https://www.youtube.com/channel/UCqIJXjQkCLx6IMGLGH5W6aA) 🙌🎬
 <!-- youtube-LIST:START -->
+- [Control Value Accessor interface in Angular](https://youtu.be/zj6denSl3wU)
 - [Data Binding in Angular](https://youtu.be/qsU6w6rm7G8)
 - [Building Extensible and Reusable Components](https://youtu.be/mNQFHNsExv0)
 - [Architecture of Angular Components](https://youtu.be/DrKZBeSpEco)
