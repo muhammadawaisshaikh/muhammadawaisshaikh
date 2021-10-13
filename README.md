@@ -2,7 +2,7 @@
 
 I am a Full Stack Devleloper, based in Karachi, Pakistan.
 
-Since 2015 I've been living and breathing web development and creating web and mobile applications with cool tech stack. other than that i am an opensource contributor, a mentor and a speaker as well. ✨😍
+<img src="https://github.com/muhammadawaisshaikh/muhammadawaisshaikh/blob/main/github-readme-header.png" alt="Muhammad Awais Bio" style="width: 100%" />
 
 ### 🌠 I am Representing Pakistan in following Tech Communities:
 - AWS DevAx::Mentor & Community Builder | [Amazon Web Services](https://aws.amazon.com/)
@@ -12,17 +12,11 @@ Since 2015 I've been living and breathing web development and creating web and m
 - Angular Community Representative | [Angular](https://angular.io)
 - Google Developers Community Representative | [Google Developers](https://developers.google.com/)
 
-<img src="https://i.ibb.co/NC5hZvy/awais-aws-dexax-pakistan.jpg" alt="Pakistan's first AWS DevAx::Mentor" 
-     style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover;" />
-<img src="https://cdn.auth0.com/blog/ambassador-program/astronaut-hero.png" alt="Pakistan's First Auth0 Ambassador" 
-     style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover;"/>
-
 ### 🔭 I’m currently working on
 
-ReactJS | Angular | JavaScript | Ruby on Rails | NodeJS
+<img src="https://github.com/muhammadawaisshaikh/muhammadawaisshaikh/blob/main/tech-stack.png" alt="Muhammad Awais Tech Stack" style="width: 100%" />
 
-[Download my CV.](http://muhammadawaisshaikh.com/resume)
-
+[Download my Resume.](http://muhammadawaisshaikh.com/resume)
 
 ### What I'm focusing on 👨‍💻
 
