@@ -14,19 +14,19 @@ I am a Full Stack Devleloper, based in Karachi, Pakistan.
 
 ### 🔭 I’m currently working on
 
-<img src="https://github.com/muhammadawaisshaikh/muhammadawaisshaikh/blob/main/tech-stack.png" alt="Muhammad Awais Tech Stack" style="width: 100%" />
+<img src="https://github.com/muhammadawaisshaikh/muhammadawaisshaikh/blob/main/tech-stack.png" alt="Muhammad Awais Tech Stack" style="400px" />
 
 [Download my Resume.](http://muhammadawaisshaikh.com/resume)
 
 ### What I'm focusing on 👨‍💻
 
 contributing opensource becuase it proves the power of diversity and inclusion 🚀
-BTW, if you´re looking for a ReactJS complete boilerplate with power of Redux and Thunk, take a look at this [Complete Reactjs Boilerplate with API call-resolver, bootstrap, redux with thunk enabled](https://github.com/muhammadawaisshaikh/reactjs-boilerplate-compelete).
 
 ### My most recent posts on [dev.to](https://dev.to/muhammadawaisshaikh) 😃🧾
 <!-- BLOG-POST-LIST:START -->
+- [User Authentication in Angular App using Auth0](https://dev.to/muhammadawaisshaikh/user-authentication-in-angular-app-using-auth0-520l)
+- [Basic State Management in Angular using Ngrx, inspired by Redux](https://dev.to/muhammadawaisshaikh/state-management-in-angular-using-ngrx-inspired-by-redux-11l5)
 - [DOM manipulation in Angular using @ViewChild, ElementRef](https://dev.to/muhammadawaisshaikh/dom-manipulation-in-angular-using-viewchild-elementref-3kop)
-- [Making API calls in React using Redux-Thunk](https://dev.to/muhammadawaisshaikh/making-api-calls-in-react-using-redux-thunk-31ep)
 - [Subject - RxJS in Angular](https://dev.to/muhammadawaisshaikh/subject-rxjs-in-angular-3dg5)
 - [NavigationExtras in Angular](https://dev.to/muhammadawaisshaikh/navigationextras-in-angular-31a4)
 - [Passport - Authentication using NodeJS, Express and MongoDB](https://dev.to/muhammadawaisshaikh/passport-authentication-using-nodejs-express-and-mongodb-4b6a)
@@ -34,10 +34,14 @@ BTW, if you´re looking for a ReactJS complete boilerplate with power of Redux a
 - [Show and hide the password in angular](https://dev.to/muhammadawaisshaikh/show-and-hide-the-password-in-angular-2ph9)
 - [How to share and change state between components using props](https://dev.to/muhammadawaisshaikh/how-to-share-and-change-state-between-components-using-props-1gif)
 - [How to avoid long relative paths import in your angular app 🚂](https://dev.to/muhammadawaisshaikh/how-to-avoid-long-relative-paths-import-in-your-angular-app-12j7)
+- [Making API calls in React using Redux-Thunk](https://dev.to/muhammadawaisshaikh/making-api-calls-in-react-using-redux-thunk-31ep)
 <!-- BLOG-POST-LIST:END -->
 
 ### My most recent talks on [youtube](https://www.youtube.com/channel/UCqIJXjQkCLx6IMGLGH5W6aA) 🙌🎬
 <!-- youtube-LIST:START -->
+- [Super Charge Your Angular Apps using State Management with NgRx 🚀](https://youtu.be/NAkOC83g6II)
+- [How to communicate with backend services using Angular Http](https://youtu.be/X2rIhCKOYfs)
+- [Deep dive into Content Projection using Angular 🚀](https://youtu.be/1JXCRifVSqs)
 - [Control Value Accessor interface in Angular](https://youtu.be/zj6denSl3wU)
 - [Data Binding in Angular](https://youtu.be/qsU6w6rm7G8)
 - [Building Extensible and Reusable Components](https://youtu.be/mNQFHNsExv0)
