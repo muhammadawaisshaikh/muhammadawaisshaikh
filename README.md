@@ -11,6 +11,7 @@ I am a Full Stack Devleloper, based in Karachi, Pakistan.
 - Postman SuperNova | [Postman](https://postman.com/)
 - Angular Community Representative | [Angular](https://angular.io)
 - Google Developers Community Representative | [Google Developers](https://developers.google.com/)
+- Digital Ocean Navigator | [Digital Ocean](https://www.digitalocean.com/)
 
 ### 🔭 I’m currently working on
 
