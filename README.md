@@ -2,7 +2,7 @@
 
 I am a passionate Software Engineer / Full Stack Software Engineer with 8+ years of experience, and looking for a new role. I am working on JavaScript, Typescript, Angular, React, NodeJS, ROR 🚀. I am passionate about coding, fixing breaking logics, solving problems, and enjoying tech speaking 🗣
 
-<img src="https://github.com/muhammadawaisshaikh/muhammadawaisshaikh/blob/main/github-readme-header.png" alt="Muhammad Awais Bio" style="width: 100%" />
+<img src="[https://github.com/muhammadawaisshaikh/muhammadawaisshaikh/blob/main/github-readme-header.png](https://github-production-user-asset-6210df.s3.amazonaws.com/24633059/310481581-baa905bd-5aa0-4d35-9465-04f9b439ff90.png)" alt="Muhammad Awais Bio" style="width: 100%; border-radius: '50px'" />
 
 ### 🌠 I am Representing Pakistan in following Tech Communities:
 - AWS DevAx::Mentor & Community Builder | [Amazon Web Services](https://aws.amazon.com/)
