@@ -54,6 +54,6 @@ contributing opensource becuase it proves the power of diversity and inclusion ð
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/muhammadawaisshaikh/)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_diogorodrigues)](https://twitter.com/developerorium)
 
-**[muhammadawaisshaikh.com](http://muhammadawaisshaikh.com)**
+**[LinkTree](https://linktr.ee/mawaisshaikh)**
 
 <a href="https://www.buymeacoffee.com/bamboodev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
