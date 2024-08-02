@@ -1,6 +1,6 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" /> Hello, I am [Muhammad Awais](http://muhammadawaisshaikh.com)!
 
-I am a passionate Software Engineer / Full Stack Software Engineer with 8+ years of experience, and looking for a new role. I am working on JavaScript, Typescript, Angular, React, NodeJS, ROR 🚀. I am passionate about coding, fixing breaking logics, solving problems, and enjoying tech speaking 🗣
+I am a passionate Software Engineer / Full Stack Software Engineer with 8+ years of experience, and looking for a new role. I am working on JavaScript, Typescript, Angular, React, NodeJS, Python & Artiicial Intelligence 🚀. I am passionate about coding, fixing breaking logics, solving problems, and enjoying tech speaking 🗣
 
 <img src="https://github.com/muhammadawaisshaikh/muhammadawaisshaikh/blob/main/twitter-cover-3.png" alt="Muhammad Awais Bio" style="width: 100%; border-radius: '50px'" />
 
