@@ -10,7 +10,7 @@ I am a passionate Software Engineer / Full Stack Software Engineer with 8+ years
 - Auth0 Ambassador | [Auth0](https://auth0.com/)
 - Postman SuperNova | [Postman](https://postman.com/)
 - Angular Community Representative | [Angular](https://angular.dev/)
-- [Google Developers Proile](https://developers.google.com/profile/u/muhammadawaisshaikh)
+- [Google Developers Profile](https://developers.google.com/profile/u/muhammadawaisshaikh)
 - [Digital Ocean Navigator](https://www.digitalocean.com/)
 
 ### 🔭 I’m currently working on
