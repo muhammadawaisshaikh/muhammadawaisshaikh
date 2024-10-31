@@ -6,12 +6,18 @@ I am a passionate Software Engineer / Full Stack Software Engineer with 8+ years
 
 ### 🌠 I am Representing Pakistan in following Tech Communities:
 - AWS DevAx::Mentor & Community Builder | [Amazon Web Services](https://aws.amazon.com/)
-- Github Opensource | [Github Pakistan](https://twitter.com/github_pakistan)
 - Auth0 Ambassador | [Auth0](https://auth0.com/)
 - Postman SuperNova | [Postman](https://postman.com/)
 - Angular Community Representative | [Angular](https://angular.dev/)
 - [Google Developers Profile](https://developers.google.com/profile/u/muhammadawaisshaikh)
 - [Digital Ocean Navigator](https://www.digitalocean.com/)
+- [Technical Reviewer](https://medium.com/javascript-in-plain-english/book-author-technical-reviewer-8d32597c279a)
+- [Book Author: Boost Your Angular Applications to Production-Grade with SOLID Design Principles](https://angular-application-with-solid-design-principles.vercel.app/)
+- [NgRx - #opensource](https://github.com/ngrx/platform/pull/3206)
+- [Technical Author - Generative AI Publication](https://medium.com/@awaisshaikh94)
+- [Technical Author - JavaScript in plain english](https://medium.com/@awaisshaikh94)
+- [Technical Author - This is Learning](https://dev.to/this-is-angular)
+- [Tech Speaker & Mentor](https://medium.com/@awaisshaikh94/technology-talks-20385a38f8b2)
 
 ### 🔭 I’m currently working on
 
