@@ -1,4 +1,4 @@
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" /> Hello, I am [Muhammad Awais](http://muhammadawaisshaikh.com)!
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" /> Hello, I am [Muhammad Awais](https://bit.ly/muhammadawaisshaikh)
 
 A passionate Lead Software Engineer / Full Stack Software Engineer (Frontend) with 9+ years of experience who finds joy in crafting exceptional web experiences using JavaScript, Typescript, Angular, React, NodeJS, Python and Artificial Intelligence 🚀. 
 
