@@ -1,6 +1,12 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" /> Hello, I am [Muhammad Awais](http://muhammadawaisshaikh.com)!
 
-I am a passionate Software Engineer / Full Stack Software Engineer with 8+ years of experience, and looking for a new role. I am working on JavaScript, Typescript, Angular, React, NodeJS, Python & Artiicial Intelligence 🚀. I am passionate about coding, fixing breaking logics, solving problems, and enjoying tech speaking 🗣
+A passionate Lead Software Engineer / Full Stack Software Engineer (Frontend) with 9+ years of experience who finds joy in crafting exceptional web experiences using JavaScript, Typescript, Angular, React, NodeJS, Python and Artificial Intelligence 🚀. 
+
+My days are filled with lines of code, bringing creativity to life through top-notch technology stack. Additionally, I am a technology speaker for multiple tech communities. I am the proud author of two books on Angular, the framework developed and maintained by Google. I also contribute as a tech writer for the Generative AI and JavaScript in Plain English publications. Additionally, I served as a technical reviewer for the book Reactive Patterns with RxJS for Angular through Packt Publishing.
+
+When I'm not immersed in coding, you can often find me on the tech speaking stage, sharing insights and trends in software development. I thrive on inspiring and connecting with fellow developers, fostering a community that shares a love for opensource and innovation.
+
+With tech experience in the industry, I've honed my skills in building scalable, efficient and effective software and enterprise applications for multiple domains including various domains like  Ecommerce, Fintech, Audio Streaming, News Media, Logistics, Automotive, EdTech and others 🚀. From Angular to React and Vue, I'm always eager to explore cutting-edge frameworks and stay ahead of the technology curve.
 
 <img src="https://github.com/muhammadawaisshaikh/muhammadawaisshaikh/blob/main/twitter-cover-3.png" alt="Muhammad Awais Bio" style="width: 100%; border-radius: '50px'" />
 
@@ -17,10 +23,6 @@ I am a passionate Software Engineer / Full Stack Software Engineer with 8+ years
 - AWS DevAx::Mentor & Community Builder | [Amazon Web Services](https://aws.amazon.com/)
 - Auth0 Ambassador | [Auth0](https://auth0.com/)
 - Postman SuperNova | [Postman](https://postman.com/)
-
-### 🔭 I’m currently working on
-
-<img src="https://github.com/muhammadawaisshaikh/muhammadawaisshaikh/blob/main/tech-stack.png" alt="Muhammad Awais Tech Stack" style="400px" />
 
 [My Portolio](https://bit.ly/muhammadawaisshaikh)
 
