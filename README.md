@@ -5,7 +5,6 @@ I am a passionate Software Engineer / Full Stack Software Engineer with 8+ years
 <img src="https://github.com/muhammadawaisshaikh/muhammadawaisshaikh/blob/main/twitter-cover-3.png" alt="Muhammad Awais Bio" style="width: 100%; border-radius: '50px'" />
 
 ### 🌠 I am Representing Pakistan in following Tech Communities:
-- AWS DevAx::Mentor & Community Builder | [Amazon Web Services](https://aws.amazon.com/)
 - Angular Focused Talks | [Angular](https://youtube.com/playlist?list=PLaxshcaiPSdyZUjrO8WM1jM2THANoVMT_&si=PblbxTiavy4ZqZqV)
 - [NgRx - #opensource](https://github.com/ngrx/platform/pull/3206)
 - [Google Developers Profile](https://developers.google.com/profile/u/muhammadawaisshaikh)
@@ -15,6 +14,7 @@ I am a passionate Software Engineer / Full Stack Software Engineer with 8+ years
 - [Technical Author - JavaScript in plain english](https://medium.com/@awaisshaikh94)
 - [Technical Author - This is Learning](https://dev.to/this-is-angular)
 - [Tech Speaker & Mentor](https://medium.com/@awaisshaikh94/technology-talks-20385a38f8b2)
+- AWS DevAx::Mentor & Community Builder | [Amazon Web Services](https://aws.amazon.com/)
 - Auth0 Ambassador | [Auth0](https://auth0.com/)
 - Postman SuperNova | [Postman](https://postman.com/)
 
