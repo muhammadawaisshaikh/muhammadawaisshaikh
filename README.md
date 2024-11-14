@@ -2,7 +2,7 @@
 
 A passionate Lead Software Engineer / Full Stack Software Engineer (Frontend) with 9+ years of experience who finds joy in crafting exceptional web experiences using JavaScript, Typescript, Angular, React, NodeJS, Python and Artificial Intelligence 🚀. 
 
-My days are filled with lines of code, bringing creativity to life through top-notch technology stack. Additionally, I am a technology speaker for multiple tech communities. I am the proud author of two books on Angular, the framework developed and maintained by Google. I also contribute as a tech writer for the Generative AI and JavaScript in Plain English publications. Additionally, I served as a technical reviewer for the book Reactive Patterns with RxJS for Angular through Packt Publishing.
+My days are filled with lines of code, bringing creativity to life through top-notch technology stack. Additionally, I am a technology speaker for multiple tech communities. I am the proud author of [two books on Angular](https://www.amazon.com/stores/Mr.-Muhammad-Awais/author/B0DM9F12NJ), the framework developed and maintained by Google. I also contribute as a tech writer for the Generative AI and JavaScript in Plain English publications. Additionally, I served as a technical reviewer for the book Reactive Patterns with RxJS for Angular through Packt Publishing.
 
 When I'm not immersed in coding, you can often find me on the tech speaking stage, sharing insights and trends in software development. I thrive on inspiring and connecting with fellow developers, fostering a community that shares a love for opensource and innovation.
 
