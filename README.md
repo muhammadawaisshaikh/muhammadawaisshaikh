@@ -12,6 +12,7 @@ With tech experience in the industry, I've honed my skills in building scalable,
 
 ### 🌠 I am Representing Pakistan in following Tech Communities:
 - Angular Focused Talks | [Angular](https://youtube.com/playlist?list=PLaxshcaiPSdyZUjrO8WM1jM2THANoVMT_&si=PblbxTiavy4ZqZqV)
+- [Angular - #opensource](https://github.com/angular/angular/commits?author=muhammadawaisshaikh)
 - [NgRx - #opensource](https://github.com/ngrx/platform/pull/3206)
 - [Google Developers Profile](https://developers.google.com/profile/u/muhammadawaisshaikh)
 - [Technical Reviewer](https://medium.com/javascript-in-plain-english/book-author-technical-reviewer-8d32597c279a)
